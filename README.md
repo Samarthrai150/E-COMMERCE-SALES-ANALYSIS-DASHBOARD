@@ -24,3 +24,7 @@ This project focuses on analyzing **E-commerce sales data** to uncover insights 
 - Identified top revenue-generating products and customer segments.
 - Analyzed monthly sales performance to detect seasonal demand.
 - Highlighted regional variations to support business strategy.
+
+## 🔹 Dashboard
+<img width="1562" height="764" alt="SALES_DASHBOARD_IMAGE" src="https://github.com/user-attachments/assets/a4b2890e-3838-4528-8ec2-73fb0d1c0554" />
+
